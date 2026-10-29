@@ -1,2 +1,7 @@
 .venv/
 .env
+.idea/
+*.mp3
+*.txt
+*.webm
+!requirements.txt
