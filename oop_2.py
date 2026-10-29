@@ -19,3 +19,5 @@ c3 = Circle(48)
 
 print(c1.area())
 c1.print_details()
+
+#we will learn inheritance
